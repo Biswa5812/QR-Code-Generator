@@ -9,7 +9,7 @@
  - Once generated click on **Save** to save the QR code.
  - The QR code is saved in a new folder named **QR codes** for later usage purpose.
  
- > Download the first release here: 
+ > Download the first release here: https://github.com/Biswa5812/QR-Code-Generator/releases/download/v1.0/QR.exe
  
  ## GUI 🙌
  
